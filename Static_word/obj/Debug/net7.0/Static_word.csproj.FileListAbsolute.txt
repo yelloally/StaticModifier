@@ -1,0 +1,15 @@
+/Users/yellobunny/Projects/c_sharp/Static_word/obj/Debug/net7.0/Static_word.csproj.AssemblyReference.cache
+/Users/yellobunny/Projects/c_sharp/Static_word/obj/Debug/net7.0/Static_word.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yellobunny/Projects/c_sharp/Static_word/obj/Debug/net7.0/Static_word.AssemblyInfoInputs.cache
+/Users/yellobunny/Projects/c_sharp/Static_word/obj/Debug/net7.0/Static_word.AssemblyInfo.cs
+/Users/yellobunny/Projects/c_sharp/Static_word/obj/Debug/net7.0/Static_word.csproj.CoreCompileInputs.cache
+/Users/yellobunny/Projects/c_sharp/Static_word/bin/Debug/net7.0/Static_word
+/Users/yellobunny/Projects/c_sharp/Static_word/bin/Debug/net7.0/Static_word.deps.json
+/Users/yellobunny/Projects/c_sharp/Static_word/bin/Debug/net7.0/Static_word.runtimeconfig.json
+/Users/yellobunny/Projects/c_sharp/Static_word/bin/Debug/net7.0/Static_word.dll
+/Users/yellobunny/Projects/c_sharp/Static_word/bin/Debug/net7.0/Static_word.pdb
+/Users/yellobunny/Projects/c_sharp/Static_word/obj/Debug/net7.0/Static_word.dll
+/Users/yellobunny/Projects/c_sharp/Static_word/obj/Debug/net7.0/refint/Static_word.dll
+/Users/yellobunny/Projects/c_sharp/Static_word/obj/Debug/net7.0/Static_word.pdb
+/Users/yellobunny/Projects/c_sharp/Static_word/obj/Debug/net7.0/Static_word.genruntimeconfig.cache
+/Users/yellobunny/Projects/c_sharp/Static_word/obj/Debug/net7.0/ref/Static_word.dll
